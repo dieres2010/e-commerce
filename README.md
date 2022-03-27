@@ -38,6 +38,19 @@ The final animation shows the POST, PUT, and DELETE routes for categories being 
 
 ![Mock-up3](./Images/Mock-up3.gif)
 
+# Walkthrough Video Link:
+
+https://drive.google.com/file/d/1WD40DTo663P6BS5PhRsg0EUUU0QhLugt/view
+
+
+# Walkthrough Video MP4:
+
+![Video MP4](./Videos/e_commerce.mp4)
+
+# Walkthrough Video WEBM:
+
+![Video WEBM](./Videos/e_commerce.webm)
+
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
 
